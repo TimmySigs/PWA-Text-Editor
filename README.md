@@ -24,7 +24,8 @@ To run J.A.T.E locally:
 </br>
 Preview:
 
-![screenshot](https://user-images.githubusercontent.com/107900180/206567108-41efd859-b8d6-480b-8dc2-d383c4a76d06.png)
+![screenshot](https://user-images.githubusercontent.com/108436098/208645441-b84d96f1-77a2-470d-abb9-7b8c2f892ebb.PNG)
+)
 
 
 
